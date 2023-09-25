@@ -1,0 +1,5 @@
+const text = "A Garota é sem limites!!!";
+
+const substituir = text.replace("Garota", "Nasa Girl");
+
+console.log(substituir);
